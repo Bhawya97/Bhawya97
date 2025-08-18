@@ -2,64 +2,68 @@
 
 ## 🛠 My Favorite Languages & Tools  
 
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+### Programming & Frameworks  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
+![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=flat&logo=microgen&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![OpenStack](https://img.shields.io/badge/-OpenStack-EA1E3C?style=flat&logo=openstack&logoColor=white)
+### DevOps & CI/CD  
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/-PowerShell-012456?style=flat&logo=powershell&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 
-![GCP](https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+### Cloud Platforms  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=white)  
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+### Monitoring & Logging  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)  
+![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=flat&logo=elastic-stack&logoColor=white)  
+![Datadog](https://img.shields.io/badge/-Datadog-3A49FF?style=flat&logo=datadog&logoColor=white)  
 
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+### APIs & Testing Tools  
+![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=rest-api&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![SoapUI](https://img.shields.io/badge/-SoapUI-6A1B9A?style=flat&logo=soapui&logoColor=white)  
 
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+### Databases  
+![Databases](https://img.shields.io/badge/-Databases-00758F?style=flat&logo=database&logoColor=white)  
 
-![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### IDEs & Editors  
+![VS Code](https://img.shields.io/badge/-VS_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)  
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)  
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![RHEL](https://img.shields.io/badge/-RHEL-EE0000?style=flat&logo=red-hat&logoColor=white)
-![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white)
-![RockyLinux](https://img.shields.io/badge/-RockyLinux-10B981?style=flat&logo=rockylinux&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
-![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white)
+### Version Control  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat&logo=bitbucket&logoColor=white)  
 
----
-
+ 
 ## 👩‍💻 About Me
 
 
-- 🔭 I’m currently working on **Audio and Video streaming applications** and hosting them on **public and private clouds**  
-- 🌱 I’m currently learning **Concurrency, Parallel & Distributed Systems, and Multithreading Programming**  
-- 🤖 I’m looking to collaborate on **Open-source software projects**  
-- 🤔 I’m looking for help with **Apache Spark**  
-- 💬 Ask me about **Linux, Virtualization, Cloud, DevOps, Python, Recommendation Systems, Knowledge Graphs, Graph Databases, and more**  
-- 👽 Check out my **Python best practices for TestDome tests** 👉 [testdome_python](https://github.com/yourusername/testdome_python) · [testDomePython](https://github.com/yourusername/testDomePython)  
+- 🔭  I’m passionate about building **scalable applications** and deploying them on **cloud-native environments**, always upgrading my skills according to the latest trends.  
+- 🤖 I’m looking to collaborate on **Open-source DevOps, Cloud, and Microservices projects** to contribute automation, CI/CD pipelines, and cloud infrastructure solutions.  
+- 💬  Ask me about **Linux, Bash, PowerShell, Python, REST APIs, Microservices, Kubernetes, Docker, CI/CD, Cloud Platforms (AWS/Azure/GCP), Databases, Observability, and DevOps best practices**.
+- 🌎 Outside of work, I love to **travel, explore new places, hang out with friends**, and **spend time in nature**. I am also an **active volunteer**, giving back to the community whenever I can.
+- 👽 Check out my **hands-on projects** 👉 [testdome_python](https://github.com/Bhawya97/auto-image-resizer) · [testDomePython](https://github.com/Bhawya97/jenkins-docker-pipeline)  
 - 😄 Pronouns: *She/Hers*  
 
 ---
 
 ## 📫 How to reach me:  
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourwebsite.com)  
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
 
 ---
 
